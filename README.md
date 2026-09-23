@@ -64,6 +64,7 @@ Combine a GPIO interrupt with a timer-based delay to implement non-blocking swit
 
 ## OUTPUT
 
+<img width="463" height="266" alt="image" src="https://github.com/user-attachments/assets/9cb1a2ad-3c76-483b-b943-52103ac02f87" />
 
 
 
